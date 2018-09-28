@@ -13,7 +13,9 @@ int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
 	cout << "prueba";
 	cout<< "nueva prueba";
-	cout<< "nueva prueba2";
-	cout<< "nueva prueba3";
+
+	cout<< "nueva prueba4";
+	cout<< "nueva prueba5";
+	cout<< "nueva prueba6";
 	return 21;
 }
