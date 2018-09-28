@@ -17,5 +17,6 @@ int main() {
 	cout<< "nueva prueba4";
 	cout<< "nueva prueba5";
 	cout<< "nueva prueba6";
+	cout<< "nueva prueba7";
 	return 21;
 }
